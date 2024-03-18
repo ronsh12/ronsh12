@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ronsh12
-- 👀 I’m interested in data engineerin
-- 🌱 I’m currently learning data engineerin
+- 👀 I’m interested in data engineering
+- 🌱 I’m currently learning data engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
